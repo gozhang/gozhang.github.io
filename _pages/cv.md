@@ -11,6 +11,6 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics & Mathematics, University of Toronto, 2016
+* B.S. (Honours with high distinction) in Statistics & Mathematics, University of Toronto, 2016
 * Ph.D in Statistics, University of British Columbnia, 2016-present
   * Supervisor: Professor [Jiahua Chen](https://www.stat.ubc.ca/~jhchen/)
