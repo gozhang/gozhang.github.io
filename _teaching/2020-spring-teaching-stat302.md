@@ -1,6 +1,5 @@
 ---
 collection: teaching
-permalink: /teaching/2020-spring-teaching-stat302
 venue: "Teaching at the University of British Columbia"
 ---
 
