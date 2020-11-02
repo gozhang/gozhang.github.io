@@ -5,6 +5,6 @@ date: 2020-07-21
 paperurl: 'https://arxiv.org/abs/2007.10586' 
 --- 
 
-By: **Archer Gong Zhang**, Jiahua Chen
+By **Archer Gong Zhang**, Jiahua Chen
 
 [Available here](https://arxiv.org/abs/2007.10586)
