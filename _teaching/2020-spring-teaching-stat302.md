@@ -8,4 +8,3 @@ venue: "University of British Columbia"
 location: "Vancouver, Canada"
 ---
 
-STAT 302 - Introduction to Probability (Fall 2019, term 2)
