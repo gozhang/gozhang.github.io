@@ -1,7 +1,7 @@
 --- 
 title: "Empirical Likelihood Ratio Test on quantiles under a Density Ratio Model" 
 collection: publications 
-date: ""
+date: 2020-07-21
 paperurl: 'https://arxiv.org/abs/2007.10586' 
 --- 
 
