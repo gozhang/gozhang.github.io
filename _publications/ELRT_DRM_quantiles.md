@@ -12,4 +12,4 @@ Abstract: Population quantiles are important parameters in many applications. En
 
 [Available here](https://arxiv.org/abs/2007.10586)
 
-Winner of the General Student Research Presentation Award at the Statistical Society of Canada 2021 Annual Meeting.
+Winner of the General Student Research Presentation Award at the Statistical Society of Canada 2021 Annual Meeting. 
