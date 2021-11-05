@@ -18,6 +18,9 @@ Education
 
 Awards
 ======
+* General Student Research Presentation Award (Statistical Society of Canada 2021 Annual Meeting)
+* Department of Statistics Graduate Teaching Assistant Award (University of British Columbia, 2020/2021)
+  * Nominated for the UBC Killam Graduate Teaching Assistant Award
 * President's Academic Excellence Initiative Ph.D. Award (University of British Columbia, 2020-2021)
 * Four Year Doctoral Fellowship (University of British Columbia, 2017-2021)
 * International Tuition Award (University of British Columbia, 2016-2021)
@@ -32,6 +35,7 @@ Awards
 
 Professional activities
 ======
+* Team leader in a project to support the statistics department's move to online teaching (Summer 2020)
 * Graduate Student Liaison to the Search for Assistant Professor in Biostatistics at UBC Department of Statistics (2018-2019)
   * Role: leading the discussion of graduate students with the candidates, collecting graduate students’ opinions, and reporting back to the Search Committee.
 * Organizer of the Graduate Student Seminars at UBC Department of Statistics (2017-2019)
