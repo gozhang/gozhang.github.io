@@ -4,6 +4,7 @@ collection: publications
 date: 2020-07-21
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2007.10586' 
+Winner of the General Student Research Presentation Award at the Statistical Society of Canada 2021 Annual Meeting. 
 --- 
 
 **Archer Gong Zhang**, Guangyu Zhu, Jiahua Chen
