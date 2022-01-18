@@ -18,7 +18,7 @@ Education
 * B.S. (Honours with high distinction) in Statistics & Mathematics, University of Toronto, 2016
 * Undergraduate student at Simon Fraser University, 2012-2013 (Transferred to University of Toronto in 2013)
 
-Awards
+Awards 
 ======
 * General Student Research Presentation Award (Statistical Society of Canada 2021 Annual Meeting)
 * Department of Statistics Graduate Teaching Assistant Award (UBC, 2020/2021)
