@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](gozhang.github.io/files/Professional_CV_Archer.pdf).
+You can find my full CV [here](https://gozhang.github.io/files/Professional_CV_Archer.pdf).
 
 Education
 ======
