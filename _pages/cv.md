@@ -13,9 +13,9 @@ You can find my full CV [here](https://gozhang.github.io/files/Professional_CV_A
 
 Education
 ======
-* Ph.D in Statistics, University of British Columbia (UBC), 2016-present
+* Ph.D. in Statistics, University of British Columbia (UBC), 2016-present
   * Supervisor: Professor [Jiahua Chen](https://www.stat.ubc.ca/~jhchen/)
-* B.S. (Honours with high distinction) in Statistics & Mathematics, University of Toronto, 2016
+* B.Sc. (Honours with high distinction) in Statistics & Mathematics, University of Toronto, 2016
 * Undergraduate student at Simon Fraser University, 2012-2013 (Transferred to University of Toronto in 2013)
 
 Awards 
