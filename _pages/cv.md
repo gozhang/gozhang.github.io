@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my full CV [here](files/Professional_CV_Archer.pdf).
+
 Education
 ======
 * Ph.D in Statistics, University of British Columbia (UBC), 2016-present
