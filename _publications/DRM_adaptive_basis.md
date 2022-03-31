@@ -1,7 +1,7 @@
 --- 
 title: "Density ratio model with data-adaptive basis function" 
 collection: publications 
-date: 2021-03-04
+date: 2022-03-31
 venue: 'Journal of Multivariate Analysis (accpeted with minor revision)'
 paperurl: 'https://arxiv.org/abs/2103.03445' 
 --- 
