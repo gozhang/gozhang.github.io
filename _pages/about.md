@@ -12,4 +12,5 @@ I am a PhD candidate in the Department of Statistics at the University of Britis
 I am on the job market this year (2022)! If you are interested in contacting me, I can be reached via email at archer.zhang@stat.ubc.ca.
 
 News: 
+
 I successfully defended my PhD thesis in March 2022! 
