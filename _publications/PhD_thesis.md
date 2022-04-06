@@ -1,1 +1,13 @@
+--- 
+title: "Semiparametric inferences under a density ratio model" 
+collection: publications 
+date: 2022-03-22
+venue: 'PhD Dissertation'
+paperurl: 'http://hdl.handle.net/2429/80996' 
+--- 
 
+**Archer Gong Zhang** 
+
+Abstract: In many applications, we collect independent samples from interconnected populations. These population distributions share some latent structures, so it is advantageous to jointly analyze the samples. Recently, many researchers have advocated the use of the semiparametric density ratio model (DRM) to account for the latent structures these distributions share and have developed more efficient data analysis procedures based on pooled data. The advantages and several asymptotic properties of the DRM-based inferences have been demonstrated in many fields and studies, and they show that the DRM helps to improve statistical efficiency. In this thesis, we investigate several inference problems related to the DRM. The first research problem we study is on the efficiency of the inference under a two-sample DRM. We consider a scenario where we have two samples whose sizes grow to infinity at different rates. The DRM-based inferences for the smaller-sized sample are studied. We find that some DRM-based estimators achieve the same asymptotic efficiency as the parametric estimators under some parametric model assumptions. Our simulation studies support our theoretical results. Our second work studies hypothesis test problems on population quantiles when we have multiple samples whose population distributions are connected via a DRM. We explore the use of the empirical likelihood ratio test for these hypotheses, which fills a gap in the literature in this context. Our major contribution is the derivation of the limiting chi-square distribution of the test statistic. Simulation experiments and a real-data example illustrate the efficacy of the proposed method. Finally, we solve an important open problem in the literature of DRM. The DRM postulates that the log density ratios are linear combinations of prespecified basis functions. The benefit of DRM relies on correctly specifying the basis functions. However, in applications, we do not have complete knowledge to enable a perfect choice of the basis functions. A data-adaptive choice can alleviate the risk of severe model misspecification. We propose a data-adaptive approach to the choice of basis functions based on functional principal component analysis. Our simulations and real-data analyses demonstrate that our proposed method leads to an efficiency gain.
+
+[Available here](http://hdl.handle.net/2429/80996)
