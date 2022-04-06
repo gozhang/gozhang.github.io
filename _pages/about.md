@@ -13,4 +13,4 @@ I am on the job market this year (2022)! If you are interested in contacting me,
 
 News: 
 
-I successfully defended my PhD thesis in March 2022! My dissertation is now publicly available [here] (http://hdl.handle.net/2429/80996)
+I successfully defended my PhD thesis in March 2022! My dissertation is now publicly available [here](http://hdl.handle.net/2429/80996)
