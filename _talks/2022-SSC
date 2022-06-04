@@ -1,0 +1,21 @@
+---
+title: "Estimation Efficiency under a Two-Sample Density Ratio Model"
+collection: talks
+type: "Contributed talk"
+permalink: /talks/2022-SSC
+venue: "Statistical Society of Canada (SSC) 2022 Annual Meeting"
+date: 2022-06-03
+location: "Online"
+---
+
+Abstract: In many applications, we collect independent samples from interconnected populations. 
+These population distributions share some latent structure, so it is advantageous to jointly analyze the multiple samples. 
+Recently, many researchers have advocated the use of the semiparametric density ratio model (DRM) 
+to account for the latent structure the multiple populations share and have developed more efficient 
+data analysis procedures based on pooled data. 
+In this talk, we investigate the efficiency of some estimators under a two-sample DRM. 
+We consider the scenario where we have two samples whose sizes grow to infinity at different rates, 
+and study the DRM-based inferences for the population corresponding to the smaller-sized sample. 
+We theoretically prove that some DRM-based estimators achieve the same asymptotic efficiency 
+as the parametric estimates derived under a specific parametric model. 
+Our simulation studies on quantile estimation help to confirm our theoretical results.
