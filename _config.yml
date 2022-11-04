@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Archer Gong Zhang"
 title_separator          : "-"
 name                     : &name "Archer Gong Zhang"
-description              : &description "PhD candidate at University of British Columbia"
+description              : &description "Postdoc Fellow in Statistical Sciences, University of Toronto"
 url                      : https://gozhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gozhang.github.io"
@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Archer Gong Zhang"
-  avatar           : "2018_me.JPG"
-  bio              : "PhD candidate at University of British Columbia"
-  location         : "Vancouver, BC, Canada"
+  avatar           : "toronto2022.png"
+  bio              : "Postdoc Fellow in Statistical Sciences\
+                      University of Toronto"
+  location         : "Toronto, ON, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=GvzcEosAAAAJ"
-  email            :
+  email            : "archer.zhang@utoronto.ca"
   researchgate     : "https://www.researchgate.net/profile/Gong_Zhang20"
   uri              :
   bitbucket        :
