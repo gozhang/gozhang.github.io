@@ -7,9 +7,8 @@ author_profile: true
 
 Welcome to my homepage! 
 
-I am a PhD candidate in the Department of Statistics at the University of British Columbia, under the supervision of [Dr. Jiahua Chen](https://www.stat.ubc.ca/~jhchen/). I am generally interested in theoretical and methodological sides of Statistics. My current research focuses on how to make efficient inferences when we have data collected from multiple sources, where the underlying populations are interconnected and their distributions have some common latent structure. I have been working closely on inferences under a semi-parametric model called Density Ratio Model and non-parametric methods (e.g., Empirical Likelihood). I am also very interested in causal inference! 
+I am a postdoctoral fellow in the Department of Statistical Sciences at the University of Toronto, working with [Dr. Nancy Reid](https://www.utstat.utoronto.ca/reid/) and [Dr. Qiang Sun](https://sites.google.com/view/qsun/). Previously, I got my PhD from the Department of Statistics at the University of British Columbia, under the supervision of [Dr. Jiahua Chen](https://www.stat.ubc.ca/~jhchen/). I am generally interested in the theoretical and methodological sides of Statistics. My PhD thesis focuses on how to make efficient inferences when we have data collected from multiple sources, where the underlying populations are interconnected and their distributions have some common latent structure. I have been working closely on inferences under a semi-parametric model called Density Ratio Model and non-parametric methods (e.g., Empirical Likelihood). I recently have become very interested in transfer learning and causal inference! 
 
-I am on the job market this year (2022)! If you are interested in contacting me, I can be reached via email at archer.zhang@stat.ubc.ca.
 
 News: 
 
