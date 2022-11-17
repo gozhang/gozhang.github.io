@@ -8,4 +8,4 @@ date: 2022-11-09
 location: "Online"
 ---
 
-[Available here](https://github.com/gozhang/gozhang.github.io/blob/master/_talks/Learning_2022_TL.pdf)
+[Available here](https://gozhang.github.io/_talks/Learning_2022_TL.pdf)
