@@ -7,3 +7,5 @@ venue: "2021 Canadian Statistical Sciences Institute (CANSSI) Showcase"
 date: 2021-11-19
 location: "Online"
 ---
+
+[Slides available here](https://gozhang.github.io/talks/Adaptive_DRM.pdf)
