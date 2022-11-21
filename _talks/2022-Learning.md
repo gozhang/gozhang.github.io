@@ -1,5 +1,5 @@
 ---
-title: "An Overview of Transfer Learning with an emphasis on domain adaptation (with an emphasis on domain adaptation)"
+title: "An Overview of Transfer Learning -- with an emphasis on domain adaptation"
 collection: talks
 type: "Presentation"
 permalink: /talks/2022-Learning
