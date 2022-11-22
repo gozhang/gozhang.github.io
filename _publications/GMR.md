@@ -1,7 +1,7 @@
 --- 
 title: "Gaussian Mixture Reduction with Composite Transportation Divergence" 
 collection: publications 
-date: 2022-11-10
+date: 2021-11-10
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2002.08410' 
 --- 
