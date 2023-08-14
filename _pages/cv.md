@@ -11,10 +11,16 @@ redirect_from:
 
 You can find my full CV [here](https://gozhang.github.io/files/CV_Archer.pdf).
 
+Employment
+======
+* Department of Statistical Sciences Postdoctoral Fellow, University of Toronto, 2023--Present
+* Postdoctoral Fellow in Statistical Sciences, University of Toronto, 2022--2023
+  * Supervisors: Drs. [Nancy Reid](https://www.utstat.utoronto.ca/reid/) and [Qiang Sun](https://sites.google.com/view/qsun) 
+  
 Education
 ======
 * Ph.D. in Statistics, University of British Columbia (UBC), 2016--2022
-  * Supervisor: Professor [Jiahua Chen](https://www.stat.ubc.ca/~jhchen/)
+  * Supervisor: Dr. [Jiahua Chen](https://www.stat.ubc.ca/~jhchen/)
 * B.Sc. (Honours with high distinction) in Statistics & Mathematics, University of Toronto, 2013--2016
 * Undergraduate student at Simon Fraser University, 2012--2013 (Transferred to University of Toronto in 2013)
 
@@ -34,16 +40,4 @@ Awards
 * Vice-President Research-Undergraduate Student Research Award (Simon Fraser University, 2013)
 * Undergraduate Open Scholarship (Simon Fraser University, 2013)
 * Simon Fraser University Alumni Scholarship Fund (2012)
-
-Professional activities
-======
-* Team leader in a project to support the statistics department's move to online teaching (Summer 2020)
-* Graduate Student Liaison to the Search for Assistant Professor in Biostatistics at UBC Department of Statistics (2018--2019)
-  * Role: leading the discussion of graduate students with the candidates, collecting graduate students’ opinions, and reporting back to the Search Committee.
-* Organizer of the Graduate Student Seminars at UBC Department of Statistics (2017--2019)
-* Case Study Poster Session at 2018 Joint Statistical Meeting
-  * Title: “Uncertainty Quantification of Weather Forecasts”. (Joint work with: Ho Yin Ho, Boyi Hu & Yu Wang)
-* Case Study Poster Session at Statistical Society of Canada 2016 Annual Meeting
-  * Title: “On the Predictive Characteristics for Sustainability of Canadian Charities”. (Joint work with: Tommy Guo, Mufan Li, Harris Quach & Yanbo Tang)
-* Volunteer at International Chinese Statistical Association-Canada Chapter 2017 Symposium
-* Volunteer at Statistical Society of Canada 2014 Annual Meeting
+  
