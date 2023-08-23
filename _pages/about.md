@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-Welcome! 
+Hi, welcome! 
 
 I am a Department Postdoctoral Fellow in the Department of Statistical Sciences at the University of Toronto. Previously, I was a postdoc in the same department working with [Dr. Nancy Reid](https://www.utstat.utoronto.ca/reid/) and [Dr. Qiang Sun](https://sites.google.com/view/qsun/). I got my PhD from the Department of Statistics at the University of British Columbia, under the supervision of [Dr. Jiahua Chen](https://www.stat.ubc.ca/~jhchen/). 
 
