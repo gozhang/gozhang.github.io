@@ -1,7 +1,7 @@
 --- 
 title: "Gaussian Mixture Reduction with Composite Transportation Divergence" 
 collection: publications 
-date: 2023-10-03
+date: 2023-10-04
 venue: 'IEEE Transactions on Information Theory (Accepted)'
 paperurl: 'https://arxiv.org/abs/2002.08410' 
 --- 
