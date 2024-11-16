@@ -3,7 +3,7 @@ title: "Density ratio model with data-adaptive basis function"
 collection: talks
 type: "Presentation"
 permalink: /talks/2022-DoSS-PostdocDay
-venue: "Postdoctoral Day"
+venue: "2022 Postdoctoral Day"
 date: 2022-12-01
 location: "Department of Statistical Sciences, University of Toronto"
 ---
