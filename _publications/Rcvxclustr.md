@@ -2,7 +2,7 @@
 title: "Resistant convex clustering: How does the fusion penalty enhance resistance?" 
 collection: publications 
 date: 2024-10-09
-venue: 'arXiv'
+venue: 'Electronic Journal of Statistics (Accepted)'
 paperurl: 'https://arxiv.org/abs/1906.09581' 
 --- 
 
