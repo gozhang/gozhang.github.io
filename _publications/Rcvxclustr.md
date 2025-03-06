@@ -3,7 +3,7 @@ title: "Resistant convex clustering: How does the fusion penalty enhance resista
 collection: publications 
 date: 2025-03-06
 venue: 'Electronic Journal of Statistics'
-paperurl: 'https://arxiv.org/abs/1906.09581' 
+paperurl: 'https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-1/Resistant-convex-clustering--How-does-the-fusion-penalty-enhance/10.1214/25-EJS2359.full' 
 --- 
 
 Qiang Sun, **Archer Gong Zhang**, Chenyu Liu, Kean Ming Tan
