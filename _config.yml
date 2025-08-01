@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Archer Gong Zhang"
 title_separator          : "-"
 name                     : &name "Archer Gong Zhang"
-description              : &description "Lecturer in Statistics \& Data Analytics, University of Glasgow"
+description              : &description "Lecturer in Statistics and Data Analytics, University of Glasgow"
 url                      : https://gozhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gozhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Archer Gong Zhang"
   avatar           : "DoSS_Photoshoot-15.jpg"
-  bio              : "ecturer in Statistics \& Data Analytics, University of Glasgow"
+  bio              : "Lecturer in Statistics and Data Analytics, University of Glasgow"
   location         : "Glasgow, UK"
   employer         :
   pubmed           : 
