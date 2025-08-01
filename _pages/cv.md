@@ -13,7 +13,8 @@ You can find my full CV [here](https://gozhang.github.io/files/CV_Archer.pdf).
 
 Employment
 ======
-* Department of Statistical Sciences Postdoctoral Fellow, University of Toronto, 2023--Present
+* Lecturer in Statistics and Data Analytics, School of Mathematics and Statistics, University of Glasgow, 2025--Present
+* Department of Statistical Sciences Postdoctoral Fellow, University of Toronto, 2023--2025
 * Postdoctoral Fellow in Statistical Sciences, University of Toronto, 2022--2023
   * Supervisors: Drs. [Nancy Reid](https://www.utstat.utoronto.ca/reid/) and [Qiang Sun](https://sites.google.com/view/qsun) 
   

@@ -2,7 +2,7 @@
 title: "Multidimensional scaling with noisy data" 
 collection: publications 
 date: 2025-05-09
-venue: 'Submitted'
+venue: 'Under revision'
 --- 
 
 Yicheng Zeng, **Archer Gong Zhang**, Hengchao Chen, Qiang Sun
