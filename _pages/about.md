@@ -12,6 +12,8 @@ Previously, I was a Department Postdoctoral Fellow in the Department of Statisti
 
 I am generally interested in the theoretical and methodological sides of Statistics. The main theme of my current research is related to data integration and distribution shift. For example, how to make efficient inferences when we have data collected from multiple sources, where the underlying populations are interconnected and their distributions have some common latent structure. I have been working closely on inferences under a semiparametric model called the Density Ratio Model (closely related to biased sampling models, the exponential tilting model, and the proportional likelihood ratio model)  and nonparametric methods (e.g., Empirical Likelihood). I have recently become very interested in transfer learning and causal inference!
 
+I am actively seeking PhD students and welcome enquiries from prospective students. If you’re interested in pursuing a PhD under my supervision (or co-supervision), please email me before submitting an application and include your CV and academic transcript.
+
 <!--
 Together with [Piotr Zwiernik](https://pzwiernik.github.io/) and [Austin Brown](https://austindavidbrown.github.io), we are organizing the [Brown Bag Seminar](https://bbseminar.utstat.utoronto.ca/). Please feel free to get in touch to give a talk!
 -->
