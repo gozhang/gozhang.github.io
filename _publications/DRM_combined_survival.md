@@ -3,7 +3,6 @@ title: "Density ratio model for multiple types of survival data with empirical l
 collection: publications 
 date: 2025-11-12
 venue: 'Submitted'
-paperurl: '' 
 --- 
 
 James Hugh McVittie, **Archer Gong Zhang**
