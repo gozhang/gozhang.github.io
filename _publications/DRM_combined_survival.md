@@ -2,7 +2,8 @@
 title: "Density ratio model for multiple types of survival data with empirical likelihood" 
 collection: publications 
 date: 2025-11-12
-venue: 'Submitted'
+venue: 'arXiv (Submitted)'
+paperurl: 'https://arxiv.org/abs/2511.09398' 
 --- 
 
 James Hugh McVittie, **Archer Gong Zhang**
@@ -14,5 +15,7 @@ In this paper, we extend the methodology for censored length-biased/truncated da
 We develop an EM algorithm to compute the DRM-based maximum empirical likelihood estimators of the model parameters and survival function, and assess its performance through extensive simulations under correct model specification, overspecification, and misspecification, across a range of failure-time distributions and censoring proportions.
 We also illustrate the efficacy of our method by analyzing the duration of time spent from admission to discharge in a Montreal-area hospital in Canada.
 The R code that implements our method is available on GitHub at [DRM-combined-survival](https://github.com/gozhang/DRM-combined-survival).
+
+[Available here](https://arxiv.org/abs/2511.09398)
 
 R code [`DRM-combined-survival`](https://github.com/gozhang/DRM-combined-survival)
