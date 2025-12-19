@@ -14,6 +14,8 @@ I am generally interested in the theoretical and methodological sides of Statist
 
 I am actively seeking PhD students and welcome enquiries from prospective students. If you’re interested in pursuing a PhD under my supervision (or co-supervision), please email me before submitting an application and include your CV and academic transcript.
 
+Starting in 2026, I will serve as a committee member for the Royal Statistical Society Emerging Applications Section. To keep up with our latest activities, please [subscribe to our events](https://rss.org.uk/membership/rss-groups-and-committees/sections/emerging-applications/) and follow us on [LinkedIn](https://www.linkedin.com/in/rss-emerging-applications-section-55b9662a2/) and [X](https://x.com/EAS_RSS)!
+
 <!--
 Together with [Piotr Zwiernik](https://pzwiernik.github.io/) and [Austin Brown](https://austindavidbrown.github.io), we are organizing the [Brown Bag Seminar](https://bbseminar.utstat.utoronto.ca/). Please feel free to get in touch to give a talk!
 -->
