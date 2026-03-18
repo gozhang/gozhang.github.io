@@ -2,7 +2,7 @@
 title: "Density ratio model for multiple types of survival data with empirical likelihood" 
 collection: publications 
 date: 2025-11-12
-venue: 'arXiv (Submitted)'
+venue: 'arXiv (Under revision)'
 paperurl: 'https://arxiv.org/abs/2511.09398' 
 --- 
 
