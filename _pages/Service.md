@@ -16,6 +16,16 @@ International Statistical Institute Regional Statistics Conference, Valletta, Ma
 [“Statistically Principled Environmental AI”](https://www.isi-next.org/conferences/session/1224/details/) <br>
 International Statistical Institute Regional Statistics Conference, Valletta, Malta, June 2026.
 
+## Referee for academic journals and conferences
+
+- Artificial Intelligence and Statistics (AISTATS)
+- Communications in Statistics: Simulation and Computation
+- Journal of Nonparametric Statistics
+- Mathematical Population Studies
+- Statistics and Computing
+- The Canadian Journal of Statistics
+- Uncertainty in Artificial Intelligence (UAI)
+
 ## Departmental service
 
 - Digital Communications Officer, School of Mathematics & Statistics, University of Glasgow, 2025 – Present.

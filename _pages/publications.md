@@ -11,6 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+## Publications and preprints
+
+{% assign main_publications = site.publications | where_exp: "post", "post.category != 'written-contribution'" | sort: "date" | reverse %}
+{% for post in main_publications %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Written contributions and discussions
+
+{% assign written_contributions = site.publications | where: "category", "written-contribution" | sort: "date" | reverse %}
+{% for post in written_contributions %}
   {% include archive-single.html %}
 {% endfor %}
