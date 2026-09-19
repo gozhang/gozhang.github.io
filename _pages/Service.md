@@ -7,6 +7,10 @@ author_profile: true
 
 ## Conference organisation and session chairing
 
+- Organising Committee Member
+[EnviBayes-INLA Workshop 2027](https://envibayesinla.github.io/workshop2027/) <br>
+Glasgow, UK, 22-24 June 2027.
+
 - Co-organiser and chair, invited paper session 
 [“Methods and Applications of Statistical Data Fusion and Integration”](https://www.isi-next.org/conferences/session/1245/details/) <br>
 International Statistical Institute Regional Statistics Conference, Valletta, Malta, June 2026. <br>
@@ -32,8 +36,5 @@ International Statistical Institute Regional Statistics Conference, Valletta, Ma
 
 - Member of Outreach Committee, School of Mathematics & Statistics, University of Glasgow, 2025 – Present.
 
-<!-- 
+- Seminar Co-organiser, Statistics Group, University of Glasgow, 2027 – . 
 
-- Seminar organiser, Statistics Group, University of Glasgow, 2027–. 
-
--->
