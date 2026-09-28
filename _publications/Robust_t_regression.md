@@ -2,7 +2,7 @@
 title: "Robust Regression with Student's T : The Role of Degrees of Freedom" 
 collection: publications 
 date: 2026-02-27
-venue: 'arXiv (Submitted)'
+venue: 'arXiv (Under revision)'
 paperurl: 'https://arxiv.org/abs/2603.00269' 
 --- 
 
