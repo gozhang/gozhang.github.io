@@ -1,7 +1,7 @@
 --- 
 title: "Density ratio model for multiple types of survival data with empirical likelihood" 
 collection: publications 
-date: 2025-11-12
+date: 2026-10-06
 venue: 'Statistica Neerlandica – Special Issue on "Survival Analysis, Beyond the Cox Model" (Accepted)'
 paperurl: 'https://arxiv.org/abs/2511.09398' 
 --- 
