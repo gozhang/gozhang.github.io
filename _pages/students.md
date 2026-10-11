@@ -11,11 +11,9 @@ My research focuses on statistical methodology and theory, particularly semipara
 the density ratio model, and empirical likelihood, with an emphasis on problems involving data integration, 
 distribution shift, and causal inference.
 
-I am actively seeking PhD and research students and welcome enquiries
-from prospective students. If you are interested in pursuing a PhD
-under my supervision (or co-supervision), please
-[email me](mailto:archer.zhang@glasgow.ac.uk) before submitting an application, 
-including your CV, academic transcript, and a brief description of your research interests or proposed research ideas.
+I welcome enquiries from prospective PhD and research students interested in working with me. 
+Please [email me](mailto:archer.zhang@glasgow.ac.uk) with your CV, academic transcript, and a brief description of your research interests or proposed research ideas. 
+Prospective students are encouraged to get in touch before submitting a formal application.
 
 ## Current Students
 
