@@ -28,7 +28,9 @@ Prospective students are encouraged to get in touch before submitting a formal a
 **Amanda Ng** (Undergraduate Research, University of Toronto, Summers 2024 and 2025)
 - Research: Robust Regression with Student's t-Errors.
 - Co-supervised with [Prof Nancy Reid](https://utstat.utoronto.ca/reid/).
+- Research Output: [Robust Regression with Student's T: The Role of Degrees of Freedom](https://arxiv.org/abs/2603.00269) (Under revision).
 
 **Shangkai Zhu** (Undergraduate Research, University of Toronto, Summer 2024)
 - Research: Aspects of Robust Regression Analysis.
 - Co-supervised with [Prof Nancy Reid](https://utstat.utoronto.ca/reid/).
+- Research Output: [Robust Regression with Student's T: The Role of Degrees of Freedom](https://arxiv.org/abs/2603.00269) (Under revision).
