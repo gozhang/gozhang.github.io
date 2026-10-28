@@ -18,7 +18,12 @@ I am a committee member of the Royal Statistical Society Emerging Applications S
 
 ## News
 
+**Funded PhD Opportunity (September 2027 Start):** We are recruiting a PhD student for the project [AI-Enabled Quantification and Communication of Decision-Relevant Environmental Uncertainty](https://www.exageo.org/phd-student-projects/#project-1950) through the ExaGEO programme at the University of Glasgow. Funding is available for both UK and international students. See the [ExaGEO application information](https://www.exageo.org/apply/) for application guidance and my [Students](/students/) page for further details.
+
+
+<!--
 I am co-organising the upcoming RSS Emerging Applications Section webinar [“Statistical Approaches to Data Integration and Data Fusion”](https://rss.org.uk/training-events/events/events-2026/section-groups/statistical-approaches-to-data-integration-and-dat/) with [Dr. Takoua Jendoubi](https://takouajendoubi.github.io/) (University College London), taking place online on 2 October 2026, with invited talks by [Prof. Paul Kirk](https://www.medschl.cam.ac.uk/people/paul-kirk) (University of Cambridge) and [Prof. Shu Yang](https://shuyang.wordpress.ncsu.edu/) (North Carolina State University).
+-->
 
 <!--
 Together with [Piotr Zwiernik](https://pzwiernik.github.io/) and [Austin Brown](https://austindavidbrown.github.io), we are organizing the [Brown Bag Seminar](https://bbseminar.utstat.utoronto.ca/). Please feel free to get in touch to give a talk!

@@ -15,6 +15,22 @@ I welcome enquiries from prospective PhD and research students interested in wor
 Please [email me](mailto:archer.zhang@glasgow.ac.uk) with your CV, academic transcript, and a brief description of your research interests or proposed research ideas. 
 Prospective students are encouraged to get in touch before submitting a formal application.
 
+
+## Funded PhD Opportunities
+
+**PhD Opportunity (September 2027)**
+
+**Project:** [AI-Enabled Quantification and Communication of Decision-Relevant Environmental Uncertainty](https://www.exageo.org/phd-student-projects/#project-1950)
+
+This project, funded through the ExaGEO programme at the University of Glasgow, will explore statistical, machine learning, and AI approaches to uncertainty quantification and communication in environmental systems, with a particular focus on decision-relevant uncertainty.
+
+- **Supervisory Team:** [Dr Archer Gong Zhang](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/archergongzhang/), [Dr Faiza Samreen](https://www.ceh.ac.uk/staff/faiza-samreen), [Dr Andrew Elliott](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewelliott/), and [Prof Marian Scott](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/).
+- **In Collaboration With:** [Dr Heather Price](https://www.stir.ac.uk/people/257434), University of Stirling.
+- **Start Date:** September 2027.
+- **Funding:** Available for both UK and international students.
+- **Further Information:** [Application information](https://www.exageo.org/apply/).
+
+
 ## Current Students
 
 **Zhiwei Nie** (PhD, University of Glasgow, 2026–Present)
