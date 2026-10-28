@@ -1,9 +1,9 @@
 --- 
 title: "Density ratio model for multiple types of survival data with empirical likelihood" 
 collection: publications 
-date: 2026-10-06
-venue: 'Statistica Neerlandica – Special Issue on "Survival Analysis, Beyond the Cox Model" (Accepted)'
-paperurl: 'https://arxiv.org/abs/2511.09398' 
+date: 2026-10-27
+venue: 'Statistica Neerlandica – Special Issue on "Survival Analysis, Beyond the Cox Model"'
+paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/stan.70044' 
 --- 
 
 James Hugh McVittie, **Archer Gong Zhang**
@@ -16,6 +16,6 @@ We develop an EM algorithm to compute the DRM-based maximum empirical likelihood
 We also illustrate the efficacy of our method by analyzing the duration of time spent from admission to discharge in a Montreal-area hospital in Canada.
 The R code that implements our method is available on GitHub at [DRM-combined-survival](https://github.com/gozhang/DRM-combined-survival).
 
-[Available here](https://arxiv.org/abs/2511.09398)
+[Available here](https://onlinelibrary.wiley.com/doi/10.1111/stan.70044)
 
 R code [`DRM-combined-survival`](https://github.com/gozhang/DRM-combined-survival)
