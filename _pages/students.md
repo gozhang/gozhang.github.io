@@ -24,7 +24,7 @@ Prospective students are encouraged to get in touch before submitting a formal a
 
 This project, funded through the ExaGEO programme at the University of Glasgow, will explore statistical, machine learning, and AI approaches to uncertainty quantification and communication in environmental systems, with a particular focus on decision-relevant uncertainty.
 
-- **Supervisory Team:** [Dr Archer Gong Zhang](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/archergongzhang/), [Dr Faiza Samreen](https://www.ceh.ac.uk/staff/faiza-samreen), [Dr Andrew Elliott](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewelliott/), and [Prof Marian Scott](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/).
+- **Supervisory Team:** [Dr Archer Gong Zhang](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/archergongzhang/), [Dr Faiza Samreen](https://www.ceh.ac.uk/staff/faiza-samreen) (UKCEH), [Dr Andrew Elliott](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewelliott/), and [Prof Marian Scott](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/).
 - **In Collaboration With:** [Dr Heather Price](https://www.stir.ac.uk/people/257434), University of Stirling.
 - **Start Date:** September 2027.
 - **Funding:** Available for both UK and international students.
